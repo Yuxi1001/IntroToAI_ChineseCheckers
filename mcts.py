@@ -1,7 +1,7 @@
 import math
 import random
 import copy
-from IntroToAI_ChineseCheckers.board import Board
+from board import Board
 
 def switch_player(player):
     """
