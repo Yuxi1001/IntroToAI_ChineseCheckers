@@ -1,4 +1,3 @@
-# IntroToAI_ChineseCheckers
 # MCTS Chinese Checkers Game
 
 This project is a Python implementation of a Chinese Checkers game with an AI opponent powered by a pure Monte Carlo Tree Search (MCTS) algorithm. The project uses Pygame for the graphical interface and provides custom logic to prevent the AI from moving backward.
